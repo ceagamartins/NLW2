@@ -67,4 +67,4 @@ Feito isso, abra o seu navegador e acesse `http://localhost:5500/`
 ---
 
 
-Desenvolvido com 💜 por Guilherme Capitão
+Desenvolvido por Christian Martins
