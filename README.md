@@ -2,12 +2,6 @@
   <img src="https://ik.imagekit.io/capitao/Proffy/nlw2_6d7PvlHZ5.svg" width="150" >
 </p>
 
-<div align="center">
-
-[![GitHub stars](https://img.shields.io/github/stars/guilhermecapitao/proffy-discovery)](https://github.com/guilhermecapitao/proffy-discovery/stargazers)<space> <space>[![GitHub license](https://img.shields.io/github/license/guilhermecapitao/proffy-discovery)](https://github.com/guilhermecapitao/proffy-discovery/blob/master/LICENSE)<space> <space>[![GitHub forks](https://img.shields.io/github/forks/guilhermecapitao/proffy-discovery)](https://github.com/guilhermecapitao/proffy-discovery/network)
-
-</div>
-
 ## 📋 Índice
 
 - [Sobre](#-Sobre)
@@ -50,10 +44,10 @@ O projeto está desenvolvido utilizando as seguintes tecnologias:
 
 ```bash
 # Clonar o repositório
-git clone https://github.com/guilhermecapitao/proffy-discovery
+git clone https://github.com/ceagamartins/NLW2.git
 
 # Entrar no diretório
-cd proffy-discovery
+cd NLW2
 
 # Baixar as dependências
 npm i
